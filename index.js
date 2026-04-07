@@ -1,7 +1,6 @@
-console.log("Git learning")
+console.log("git learnig")
 
 for (let index = 0; index < array.length; index++) {
     const element = array[index];
-    console.log(element);
-
+    console.log('element')
 }
