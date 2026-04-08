@@ -13,3 +13,5 @@ This changes form new-local branch
 # This state going to stash changes
 
 # Current changes for Rebase
+
+# This branch addded for exmaple of Rebase
