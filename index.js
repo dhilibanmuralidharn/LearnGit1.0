@@ -30,12 +30,9 @@ for (let index = 0; index < array.length; index++) {
     const element = array[index];
 
 }
-<<<<<<< HEAD
 
 //Rebase example 
 for (let index = 0; index < 5; index++) {
     console.log(index);
 
 }
-=======
->>>>>>> 38b34cc (Revert "bad-coomit")
