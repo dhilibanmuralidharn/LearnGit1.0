@@ -19,3 +19,13 @@ for (let index = 0; index < array.length; index++) {
     const element = array[index];
 
 }
+//stash changes add new for loop
+for (let index = 0; index < array.length; index++) {
+    const element = array[index];
+
+}
+//addede feature set to stash state 2
+for (let index = 0; index < array.length; index++) {
+    const element = array[index];
+
+}

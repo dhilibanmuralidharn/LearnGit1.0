@@ -10,3 +10,4 @@ This changes form new-local branch
 
 # This commit 4
 
+# This state going to stash changes
