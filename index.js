@@ -6,3 +6,9 @@ for (let index = 0; index < array.length; index++) {
     console.log('element', element);
     console.log(i)
 }
+
+// new feature going to add
+for (let index = 0; index < array.length; index++) {
+    const element = array[index];
+
+}
