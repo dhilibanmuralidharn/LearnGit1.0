@@ -36,3 +36,9 @@ for (let index = 0; index < 5; index++) {
     console.log(index);
 
 }
+
+// additional loop 
+for (let index = 0; index < array.length; index++) {
+    const element = array[index];
+
+}
